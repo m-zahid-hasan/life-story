@@ -2,3 +2,4 @@ This is zahid hasan
 Student of Rajshahi university
 i study in Computer Science and Engineering 
 i already completed 2nd year and 1st semister
+i am now learning git and github
